@@ -17,6 +17,7 @@
 
  <p align="center"> 
 <img src="https://img.shields.io/badge/-INSTALL-brightgreen"> 
+    
 ```
 wget -q https://raw.githubusercontent.com/zhets/free/main/main.sh && chmod +x main.sh && ./main.sh
 ```
