@@ -1,11 +1,6 @@
-<p align="center">  
-    <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>  
-  </p>  
-  
    <p align="center"> 
             AUTOSCRIPT FREE
    </p>
-  
   <p align="center">  
     <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>  
   </p> 
@@ -21,7 +16,7 @@
 ![XDXL%20STORE card name](https://cardivo.vercel.app/api?name=XDXL%20STORE&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/zhets/zhets/main/profile.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=zhets&pattern=leaf&colorPattern=%23eaeaea)
 
 
-<h3><details>INSTALLASI</h3>
+<h3>INSTALLASI</h3>
 **ROOT**
 ``` 
 sudo su
@@ -34,9 +29,8 @@ sudo -i
 ```
 wget https://raw.githubusercontent.com/zhets/free/main/main.sh -o main.sh && chmod +x main.sh && ./main.sh
 ```
-</details>
 
-<b><details><summary>Service & Port</summary></b> 
+<b><summary>Service & Port</summary></b> 
  <p align="center"> 
 <img src="https://img.shields.io/badge/-Services%20%26%20Port-brightgreen"> 
   
@@ -67,9 +61,6 @@ wget https://raw.githubusercontent.com/zhets/free/main/main.sh -o main.sh && chm
 - VLESS GRPC  : vless
 - TROJAN GRPC : trojan
 ```
-
-</details>
-
 
 ## Feature
  ```diff
