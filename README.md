@@ -3,7 +3,7 @@
   </p>  
   
    <p align="center"> 
-          AUTOSCRIPT XDXL STORE
+            AUTOSCRIPT FREE
    </p>
   
   <p align="center">  
@@ -30,13 +30,9 @@ OR
 ```
 sudo -i
 ```
-***Step 1***
+**Step 1**
 ```
-apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y install xxd && apt install -y bzip2 && apt install -y wget && apt install -y curl && ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && reboot
-```
-***Steps 2***
-```
--
+wget https://raw.githubusercontent.com/zhets/free/main/main.sh -o main.sh && chmod +x main.sh && ./main.sh
 ```
 </details>
 
@@ -51,13 +47,10 @@ apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y i
 - XRAY WEBSOCKET HTTP : 80, 8080, 8880, 2082
 - XRAY WEBSOCKET HTTPS: 443, 8443
 - XRAY GRPC SERVICE   : 443, 8443
-- NGINX WEBSERVER     : 81 [ HTTP ACCESS ]
-- DROPBEAR            : 109 , 69 , 143
-- WEBSOCKET GOLANG    : 443 , 80 , 2082
-- OHP                 : 8181 , 8282 , 8383
-- OPENVPN TCP/UDP     : 1194 / 2200
+- NGINX WEBSERVER     : 81
+- DROPBEAR            : 109, 69, 143
 - UDP CUSTOM          : 1-65535
-- BADVPN / UDPGW SSH  : 7100 , 7200 , 7300 , 7400 , 7500
+- BADVPN / UDPGW SSH  : 7100, 7200, 7300, 7400, 7500
 ```
 
 # PATH
