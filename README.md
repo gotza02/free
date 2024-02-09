@@ -11,7 +11,7 @@
   </p> 
  
  <p align="center"> 
- <img height=21 src="https://komarev.com/ghpvc/?username=praiman99">
+ <img height=21 src="https://komarev.com/ghpvc/?username=zhets">
  </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 ![XDXL%20STORE card name](https://cardivo.vercel.app/api?name=XDXL%20STORE&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/zhets/zhets/main/profile.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=zhets&pattern=leaf&colorPattern=%23eaeaea)
 
 
-<b><details><summary>INSTALLASI</summary></b>
-***ROOT***
+<h3>INSTALLASI</h3>
+**ROOT**
 ``` 
 sudo su
 ```
@@ -30,8 +30,7 @@ OR
 ```
 sudo -i
 ```
-**Step 1**
-```
+**LINK INSTALL**
 wget https://raw.githubusercontent.com/zhets/free/main/main.sh -o main.sh && chmod +x main.sh && ./main.sh
 ```
 </details>
