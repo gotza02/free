@@ -15,8 +15,8 @@
 
 ![XDXL%20STORE card name](https://cardivo.vercel.app/api?name=XDXL%20STORE&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/zhets/zhets/main/profile.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=zhets&pattern=leaf&colorPattern=%23eaeaea)
 
-
-<img src="https://img.shields.io/badge/-INSTALLATION%20%26%20-brightgreen"> 
+ <p align="center"> 
+<img src="https://img.shields.io/badge/-INSTALL-brightgreen"> 
 ```
 wget -q https://raw.githubusercontent.com/zhets/free/main/main.sh && chmod +x main.sh && ./main.sh
 ```
